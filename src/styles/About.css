@@ -1,0 +1,17 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+
+.header {
+
+    font-size: xx-large;
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+.description {
+font-size: large;
+}
